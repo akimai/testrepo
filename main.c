@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-  printf("HHHELLLLOOOO Roman Branch!");
+  printf("HEYO Roman Branch!");
   return(0);
 
 }
