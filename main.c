@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-  printf("ICANCHANGEWHYNOTROMAN?? Greek branch!");
+  printf("Nyan Greek branch!");
   return(0);
 
 }
