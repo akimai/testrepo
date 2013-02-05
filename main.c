@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-  printf("ένα χταπόδι έχει συλλάβει τα πόδια μου Greek branch!");
+  printf("Dodododo Greek branch!");
   return(0);
 
 }
