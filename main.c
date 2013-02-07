@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-  printf("Polypus Roman Branch?!");
+  printf("Polyp Roman Branch?!");
   return(0);
 
 }
