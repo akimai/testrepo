@@ -1,0 +1,4 @@
+{
+  "project_id" : "some_project_name",
+  "conduit_uri" : "http://lpa.phab.test:88/"
+}
